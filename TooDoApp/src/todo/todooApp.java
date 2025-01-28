@@ -15,7 +15,7 @@ public class todooApp {
 
         // Title label
         JLabel titleLabel = new JLabel("ToDo List Application", JLabel.CENTER);
-        titleLabel.setFont(new Font("Arial", Font.BOLD, 24));
+        titleLabel.setFont(new Font("Arial", Font.BOLD, 30));
         titleLabel.setOpaque(true);
         titleLabel.setBackground(new Color(70, 130, 180));
         titleLabel.setForeground(Color.WHITE);
